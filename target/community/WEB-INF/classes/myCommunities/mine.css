@@ -1,0 +1,35 @@
+/*我的社团CSS样式 作者：陆祎洲*/
+div.mainbox{
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	width: 100%;
+}
+div.dropdown{
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	margin-top: 8px;
+	padding-left: 2px;
+	padding-top: 2px; 
+}
+div.dropdown-head{
+	display: flex;
+	flex-direction: row;
+	color:white;
+	background-color: #a15c51;
+}
+div.dropdown-head:hover{
+	background-color: #512E29;
+	transition: 0.3s;
+}
+div.dropdown:hover table.list{
+	display: block;
+}
+table.list{
+	margin-bottom: 5px;
+	padding: 2px;
+	border: 1px solid grey;
+	position: relative;
+	display: none;
+}

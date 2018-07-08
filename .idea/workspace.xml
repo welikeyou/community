@@ -6,7 +6,523 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71d25627-6dc2-4081-be8c-b2c37cb402fc" name="Default" comment="" />
+    <list default="true" id="71d25627-6dc2-4081-be8c-b2c37cb402fc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/bg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/bg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/cola.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/food.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/lemon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/lemon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/ppt1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/ppt2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/ppt3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/slogen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/pic/triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/bg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/bg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/cola.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/com/java/control/Databaseco.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/com/java/model/Community.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/com/java/model/Create_Apply.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/com/java/model/Database.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/com/java/model/Student.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/com/java/servlets/AddCommunity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/com/java/servlets/Update.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/com/java/servlets/loServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/com/java/servlets/mainpage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/food.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/lemon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/lemon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/bg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/bg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/cola.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/food.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/lemon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/lemon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/ppt1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/ppt2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/ppt3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/slogen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/pic/triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/bg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/bg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/cola.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/food.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/lemon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/lemon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/ppt1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/ppt2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/ppt3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/slogen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/pic/triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/ppt1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/ppt2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/ppt3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/slogen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/bg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/bg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/cola.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/food.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/lemon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/lemon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/ppt1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/ppt2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/ppt3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/slogen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/pic/triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/bg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/bg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/cola.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/com/java/control/Databaseco.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/com/java/model/Community.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/com/java/model/Create_Apply.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/com/java/model/Database.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/com/java/model/Student.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/com/java/servlets/AddCommunity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/com/java/servlets/Update.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/com/java/servlets/loServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/com/java/servlets/mainpage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/food.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/lemon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/lemon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/bg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/bg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/cola.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/food.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/lemon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/lemon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/ppt1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/ppt2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/ppt3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/slogen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/pic/triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/bg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/bg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/cola.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/food.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/lemon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/lemon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/ppt1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/ppt2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/ppt3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/slogen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/pic/triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/ppt1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/ppt2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/ppt3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/slogen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/bg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/bg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/cola.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/food.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/lemon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/lemon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/ppt1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/ppt2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/ppt3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/slogen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/pic/triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/bg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/bg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/cola.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/food.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/lemon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/lemon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/ppt1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/ppt2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/ppt3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/slogen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/pic/triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/com/java/model/Community.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/com/java/model/Create_Apply.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/com/java/model/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/com/java/servlets/Update.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/com/java/servlets/loServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/com/java/servlets/mainpage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/applyCommunity.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/applyCommunity.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/viewCommunities.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/viewCommunities.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/common/AfterLoginTittle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/common/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/common/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/common/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/common/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/common/lunbo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/common/lunbo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/common/mainpage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/common/mainpage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/common/topside.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/mainpages/afterlogin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/mainpages/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/mainpages/review.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/mainpages/root.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/mainpages/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/myCommunities/establish.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/myCommunities/establish.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/myCommunities/mine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/myCommunities/myCommunities.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/myImformation/myImformation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/myImformation/myImformation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/src/main/webapp/myImformation/myImformation.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/AddCommunity/applyCommunity.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/AddCommunity/applyCommunity.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/AddCommunity/viewCommunities.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/AfterLoginTittle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/afterlogin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/applyCommunity.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/applyCommunity.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/common/AfterLoginTittle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/common/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/common/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/common/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/common/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/common/lunbo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/common/lunbo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/common/mainpage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/common/mainpage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/common/topside.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/establish.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/establish.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/lunbo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/lunbo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/AddCommunity/applyCommunity.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/AddCommunity/applyCommunity.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/AddCommunity/viewCommunities.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/common/AfterLoginTittle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/common/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/common/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/common/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/common/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/common/lunbo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/common/lunbo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/common/mainpage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/common/mainpage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/common/topside.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/mainpages/afterlogin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/mainpages/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/mainpages/review.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/mainpages/root.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/mainpages/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/myCommunities/establish.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/myCommunities/establish.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/myCommunities/mine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/myCommunities/myCommunities.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/myImformation/myImformation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/myImformation/myImformation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/myImformation/myImformation.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/mainpage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/mainpage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/mainpages/afterlogin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/mainpages/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/mainpages/review.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/mainpages/root.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/mainpages/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/mine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/myCommunities.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/myCommunities/establish.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/myCommunities/establish.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/myCommunities/mine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/myCommunities/myCommunities.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/myImformation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/myImformation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/myImformation.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/myImformation/myImformation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/myImformation/myImformation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/myImformation/myImformation.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/review.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/root.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/topside.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/viewCommunities.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/AddCommunity/applyCommunity.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/AddCommunity/applyCommunity.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/AddCommunity/viewCommunities.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/common/AfterLoginTittle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/common/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/common/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/common/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/common/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/common/lunbo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/common/lunbo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/common/mainpage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/common/mainpage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/common/topside.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/mainpages/afterlogin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/mainpages/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/mainpages/review.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/mainpages/root.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/mainpages/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/myCommunities/establish.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/myCommunities/establish.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/myCommunities/mine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/myCommunities/myCommunities.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/myImformation/myImformation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/myImformation/myImformation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/myImformation/myImformation.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/AddCommunity/applyCommunity.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/AddCommunity/applyCommunity.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/AddCommunity/viewCommunities.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/AddCommunity/applyCommunity.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/AddCommunity/applyCommunity.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/AddCommunity/viewCommunities.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/AfterLoginTittle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/afterlogin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/applyCommunity.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/applyCommunity.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/common/AfterLoginTittle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/common/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/common/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/common/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/common/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/common/lunbo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/common/lunbo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/common/mainpage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/common/mainpage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/common/topside.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/establish.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/establish.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/lunbo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/lunbo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/AddCommunity/applyCommunity.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/AddCommunity/applyCommunity.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/AddCommunity/viewCommunities.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/common/AfterLoginTittle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/common/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/common/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/common/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/common/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/common/lunbo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/common/lunbo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/common/mainpage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/common/mainpage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/common/topside.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/mainpages/afterlogin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/mainpages/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/mainpages/review.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/mainpages/root.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/mainpages/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/myCommunities/establish.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/myCommunities/establish.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/myCommunities/mine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/myCommunities/myCommunities.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/myImformation/myImformation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/myImformation/myImformation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/myImformation/myImformation.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/mainpage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/mainpage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/mainpages/afterlogin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/mainpages/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/mainpages/review.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/mainpages/root.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/mainpages/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/mine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/myCommunities.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/myCommunities/establish.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/myCommunities/establish.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/myCommunities/mine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/myCommunities/myCommunities.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/myImformation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/myImformation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/myImformation.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/myImformation/myImformation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/myImformation/myImformation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/myImformation/myImformation.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/review.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/root.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/topside.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/viewCommunities.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/AddCommunity/applyCommunity.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/AddCommunity/applyCommunity.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/AddCommunity/viewCommunities.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/common/AfterLoginTittle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/common/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/common/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/common/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/common/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/common/lunbo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/common/lunbo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/common/mainpage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/common/mainpage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/common/topside.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/mainpages/afterlogin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/mainpages/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/mainpages/review.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/mainpages/root.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/mainpages/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/myCommunities/establish.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/myCommunities/establish.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/myCommunities/mine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/myCommunities/myCommunities.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/myImformation/myImformation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/myImformation/myImformation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/myImformation/myImformation.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/common/AfterLoginTittle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/common/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/common/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/common/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/common/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/common/lunbo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/common/lunbo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/common/mainpage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/common/mainpage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/common/topside.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/mainpages/afterlogin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/mainpages/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/mainpages/review.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/mainpages/root.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/mainpages/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/myCommunities/establish.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/myCommunities/establish.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/myCommunities/mine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/myCommunities/myCommunities.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/myImformation/myImformation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/myImformation/myImformation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../community/target/community/myImformation/myImformation.jsp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/addResult.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/viewdetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/src/main/webapp/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/src/main/webapp/viewCommunities.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/classes/AddCommunity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/classes/AddCommunity/addResult.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/classes/AddCommunity/viewdetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/classes/Database.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/classes/Databaseco.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/classes/addResult.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/classes/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/classes/main/webapp/AddCommunity/addResult.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/classes/main/webapp/AddCommunity/viewdetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/classes/main/webapp/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/classes/viewdetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/classes/webapp/AddCommunity/addResult.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/classes/webapp/AddCommunity/viewdetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/classes/webapp/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/community/AddCommunity/addResult.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/community/AddCommunity/viewdetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/AddCommunity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/AddCommunity/addResult.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/AddCommunity/viewdetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/Database.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/Databaseco.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/addResult.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/AddCommunity/addResult.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/AddCommunity/viewdetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/viewdetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/AddCommunity/addResult.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/AddCommunity/viewdetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../community/target/community/index.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/community.war" afterPath="$PROJECT_DIR$/../community/target/community.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../community/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/community.iml" afterPath="$PROJECT_DIR$/../community/community.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/src/main/com/java/control/Databaseco.java" afterPath="$PROJECT_DIR$/../community/src/main/com/java/control/Databaseco.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/src/main/com/java/model/Database.java" afterPath="$PROJECT_DIR$/../community/src/main/com/java/model/Database.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/src/main/com/java/servlets/AddCommunity.java" afterPath="$PROJECT_DIR$/../community/src/main/com/java/servlets/AddCommunity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../community/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/classes/AddCommunity/viewCommunities.jsp" afterPath="$PROJECT_DIR$/../community/target/classes/AddCommunity/viewCommunities.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/classes/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../community/target/classes/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/classes/main/webapp/AddCommunity/viewCommunities.jsp" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/AddCommunity/viewCommunities.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/classes/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../community/target/classes/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/classes/viewCommunities.jsp" afterPath="$PROJECT_DIR$/../community/target/classes/viewCommunities.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/classes/webapp/AddCommunity/viewCommunities.jsp" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/AddCommunity/viewCommunities.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/classes/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../community/target/classes/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/community/AddCommunity/viewCommunities.jsp" afterPath="$PROJECT_DIR$/../community/target/community/AddCommunity/viewCommunities.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/community/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../community/target/community/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/AddCommunity/viewCommunities.jsp" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/AddCommunity/viewCommunities.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/AddCommunity/viewCommunities.jsp" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/AddCommunity/viewCommunities.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/viewCommunities.jsp" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/viewCommunities.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/AddCommunity/viewCommunities.jsp" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/AddCommunity/viewCommunities.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../community/target/community/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../community/target/community/WEB-INF/web.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/../community/out/" />
     <ignored path="$PROJECT_DIR$/../community/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,83 +534,104 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="AddCommunity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../community/src/main/java/Servlet/AddCommunity.java">
+      <file leaf-file-name="Databaseco.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../community/src/main/com/java/control/Databaseco.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1127">
-              <caret line="56" column="49" lean-forward="false" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
+            <state relative-caret-position="713">
+              <caret line="40" column="61" lean-forward="false" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1531047663645" expanded="false" signature="8391:8405" ph="&lt;~&gt;" />
+                <marker date="1531047663645" expanded="false" signature="9230:9244" ph="&lt;~&gt;" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="viewdetail.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/viewdetail.jsp">
+      <file leaf-file-name="Community.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../community/src/main/com/java/model/Community.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="72" lean-forward="false" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+            <state relative-caret-position="23">
+              <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addResult.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/addResult.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Databaseco.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../community/src/main/java/control/Databaseco.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Database.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../community/src/main/java/model/Database.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="viewCommunities.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/viewCommunities.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="828">
-              <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/index.jsp">
+      <file leaf-file-name="root.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/mainpages/root.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
-              <caret line="4" column="62" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="62" />
+              <caret line="4" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/WEB-INF/web.xml">
+      <file leaf-file-name="myCommunities.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/myCommunities/myCommunities.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+            <state relative-caret-position="1909">
+              <caret line="83" column="44" lean-forward="false" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myImformation.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/myImformation/myImformation.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myImformation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/myImformation/myImformation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="root.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/mainpages/root.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="establish.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/myCommunities/establish.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="establish.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/myCommunities/establish.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="29" column="112" lean-forward="false" selection-start-line="29" selection-start-column="112" selection-end-line="29" selection-end-column="112" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mine.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/myCommunities/mine.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -111,6 +648,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../community" />
   </component>
   <component name="GradleLocalSettings">
@@ -121,19 +659,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../community/pom.xml" />
-        <option value="$PROJECT_DIR$/../community/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/../community/src/main/webapp/WEB-INF/viewCommunities.jsp" />
-        <option value="$PROJECT_DIR$/../community/src/main/java/model/database.java" />
-        <option value="$PROJECT_DIR$/../community/src/main/java/control/databaseco.java" />
-        <option value="$PROJECT_DIR$/../community/src/main/webapp/viewCommunities.jsp" />
-        <option value="$PROJECT_DIR$/../community/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/../community/src/main/java/model/Database.java" />
+        <option value="$PROJECT_DIR$/../community/src/main/java/model/Community.java" />
         <option value="$PROJECT_DIR$/../community/src/main/java/control/Databaseco.java" />
-        <option value="$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/addResult.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/java/Servlet/mainpage.java" />
         <option value="$PROJECT_DIR$/../community/src/main/java/Servlet/AddCommunity.java" />
+        <option value="$PROJECT_DIR$/../community/src/main/java/servlets/AddCommunity.java" />
+        <option value="$PROJECT_DIR$/../community/src/main/java/com/servlets/AddCommunity.java" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/common/cobody.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/com/java/control/Controller.java" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/SelfInfo/login.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/common/BeforeLoginTittle.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/SelfInfo/mine.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/SelfInfo/personal.css" />
+        <option value="$PROJECT_DIR$/../community/target/community/WEB-INF/classes/myImformation.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/myCommunities/personalAssociatons.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/com/java/servlets/list.java" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/myCommunities/review.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/com/java/model/Community.java" />
+        <option value="$PROJECT_DIR$/../community/src/main/com/java/model/Create_Apply.java" />
+        <option value="$PROJECT_DIR$/../community/src/main/com/java/model/Student.java" />
+        <option value="$PROJECT_DIR$/../community/src/main/com/java/servlets/AddCommunity.java" />
+        <option value="$PROJECT_DIR$/../community/src/main/com/java/servlets/loServlet.java" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/applyCommunity.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/mainpages/afterlogin.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/myImformation/myImformation.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/myCommunities/establish.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/com/java/servlets/mainpage.java" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/mainpages/login.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/com/java/servlets/Update.java" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../community/src/main/com/java/model/Database.java" />
         <option value="$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/viewCommunities.jsp" />
-        <option value="$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/viewdetail.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/com/java/control/Databaseco.java" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/myCommunities/myCommunities.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/common/AfterLoginTittle.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/mainpages/review.jsp" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/applyCommunity.css" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/viewCommunities.css" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/common/jquery.js" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/common/jquery.min.js" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/common/login.css" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/common/login.js" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/common/lunbo.css" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/common/lunbo.js" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/common/mainpage.css" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/common/mainpage.js" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/mainpages/root.css" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/mainpages/root.js" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/myCommunities/establish.css" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/myImformation/myImformation.css" />
+        <option value="$PROJECT_DIR$/../community/src/main/webapp/myImformation/myImformation.js" />
       </list>
     </option>
   </component>
@@ -158,7 +734,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="121" />
+    <option name="y" value="86" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
   </component>
@@ -179,6 +756,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,7 +805,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="servlets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="community" type="b2602c69:ProjectViewProjectNode" />
@@ -243,25 +822,76 @@
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="AddCommunity" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="community" type="b2602c69:ProjectViewProjectNode" />
+              <item name="community" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="community" type="b2602c69:ProjectViewProjectNode" />
+              <item name="community" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="community" type="b2602c69:ProjectViewProjectNode" />
+              <item name="community" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="mainpages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="community" type="b2602c69:ProjectViewProjectNode" />
+              <item name="community" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="myCommunities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="community" type="b2602c69:ProjectViewProjectNode" />
+              <item name="community" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="myImformation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="community" type="b2602c69:ProjectViewProjectNode" />
+              <item name="community" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../大学/webhomework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1546875" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\community\src\main\webapp\mainpages" />
+      <recent name="E:\community\src\main\webapp\myImformation" />
+      <recent name="E:\community\src\main\webapp\common" />
       <recent name="E:\community\src\main\webapp\AddCommunity" />
       <recent name="E:\community\src\main\webapp" />
     </key>
@@ -445,47 +1075,55 @@
       <updated>1530579684000</updated>
       <workItem from="1530579691112" duration="6583000" />
       <workItem from="1530586632640" duration="4951000" />
-      <workItem from="1530595950522" duration="877000" />
+      <workItem from="1530595950522" duration="20806000" />
+      <workItem from="1530665657113" duration="34043000" />
+      <workItem from="1530752928142" duration="23684000" />
+      <workItem from="1530794517344" duration="1181000" />
+      <workItem from="1530870404224" duration="20627000" />
+      <workItem from="1530942699317" duration="15145000" />
+      <workItem from="1530961866011" duration="2075000" />
+      <workItem from="1531011211281" duration="21210000" />
+      <workItem from="1531036581930" duration="7822000" />
+      <workItem from="1531052012317" duration="208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12411000" />
+    <option name="totallyTimeSpent" value="158335000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.49785408" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32982457" sideWeight="0.30740345" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.69259655" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19796138" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39532164" sideWeight="0.45708156" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.49785408" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -496,152 +1134,326 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../community/src/main/com/java/servlets/AddCommunity.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/viewCommunities.jsp</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="77" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../community/src/main/java/Servlet/AddCommunity.java">
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/common/BeforeLoginTittle.jsp" />
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/SelfInfo/login.jsp" />
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/SelfInfo/mine.jsp" />
+    <entry file="file://$PROJECT_DIR$/../community/target/classes/mainpages/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1127">
-          <caret line="56" column="49" lean-forward="false" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-138">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/addResult.jsp">
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/SelfInfo/personal.jsp" />
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/SelfInfo/personal.css" />
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/SelfInfo/topside.css" />
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/SelfInfo/personal.js" />
+    <entry file="file://$PROJECT_DIR$/../community/target/classes/myImformation/myImformation.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="138">
+          <caret line="21" column="68" lean-forward="false" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/target/classes/myImformation/myImformation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-759">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/target/community/WEB-INF/classes/myImformation.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-930">
+          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/myCommunities/myCommunities.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/java/control/Databaseco.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/java/model/Database.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/viewCommunities.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/../community/src/main/com/java/control/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/../community/src/main/com/java/servlets/list.java" />
+    <entry file="file://$PROJECT_DIR$/../community/src/main/com/java/model/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="4" column="62" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="62" />
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/com/java/model/Create_Apply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/com/java/servlets/loServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2369">
+          <caret line="121" column="25" lean-forward="false" selection-start-line="121" selection-start-column="25" selection-end-line="121" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        <state relative-caret-position="989">
+          <caret line="43" column="40" lean-forward="false" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/viewdetail.jsp">
+    <entry file="file://$PROJECT_DIR$/../community/src/main/com/java/servlets/Update.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="72" lean-forward="false" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+        <state relative-caret-position="274">
+          <caret line="36" column="9" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/applyCommunity.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/java/Servlet/AddCommunity.java">
+    <entry file="file://$PROJECT_DIR$/../community/src/main/com/java/servlets/mainpage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="251">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/viewdetail.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/addResult.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/java/control/Databaseco.java">
+    <entry file="file://$PROJECT_DIR$/../community/src/main/com/java/servlets/AddCommunity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/java/model/Database.java">
+    <entry file="jar://$PROJECT_DIR$/../java/jdk 1.8.0_144/jre/lib/ext/servlet-api.jar!/javax/servlet/http/HttpServlet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="260">
+          <caret line="291" column="0" lean-forward="false" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/viewCommunities.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="40" column="40" lean-forward="false" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+        <state relative-caret-position="152">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/../community/src/main/com/java/model/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding>
+            <marker date="1531035798000" expanded="true" signature="1301:1348" ph="select * fro... association" />
+            <marker date="1531035798000" expanded="true" signature="1763:1862" ph="insert into join_apply... " />
+            <marker date="1531035798000" expanded="true" signature="2208:2439" ph="insert into create_apply... " />
+            <marker date="1531035798000" expanded="true" signature="2853:3007" ph="select a.ass... stu_choose_association" />
+            <marker date="1531035798000" expanded="true" signature="2853:3105" ph="select sca.a... stu_choose_association" />
+            <marker date="1531035798000" expanded="true" signature="3515:3674" ph="select s.stu... create_apply" />
+            <marker date="1531035798000" expanded="true" signature="4119:4289" ph="select s.stu... create_apply" />
+            <marker date="1531035798000" expanded="true" signature="4707:4873" ph="update creat... " />
+            <marker date="1531035798000" expanded="true" signature="5262:5428" ph="update creat... " />
+            <marker date="1531035798000" expanded="true" signature="5826:5956" ph="delete from " />
+            <marker date="1531035798000" expanded="true" signature="6281:6320" ph="select * fro... student" />
+            <marker date="1531035798000" expanded="true" signature="6685:6770" ph="insert into student... " />
+            <marker date="1531035798000" expanded="true" signature="7350:7590" ph="update stude... " />
+            <marker date="1531035798000" expanded="true" signature="7810:7882" ph="update stude... " />
+            <marker date="1531035798000" expanded="true" signature="8165:8215" ph="delete from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/mainpages/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1368">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/myImformation/myImformation.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="81" column="76" lean-forward="false" selection-start-line="81" selection-start-column="76" selection-end-line="81" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/common/AfterLoginTittle.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="40" column="111" lean-forward="false" selection-start-line="40" selection-start-column="111" selection-end-line="40" selection-end-column="111" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/mainpages/review.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/applyCommunity.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding />
+          <caret line="5" column="2" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/viewCommunities.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-          <folding />
+        <state relative-caret-position="46">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/common/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        <state relative-caret-position="115">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/common/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/common/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/common/lunbo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/common/lunbo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/common/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/common/mainpage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/common/mainpage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/common/topside.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/mainpages/afterlogin.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="35" column="69" lean-forward="false" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="69" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../community/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/mainpages/root.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/mainpages/root.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/myCommunities/establish.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/myCommunities/establish.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="112" lean-forward="false" selection-start-line="29" selection-start-column="112" selection-end-line="29" selection-end-column="112" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/myCommunities/mine.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -649,60 +1461,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/java/control/Databaseco.java">
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/myCommunities/myCommunities.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="1909">
+          <caret line="83" column="44" lean-forward="false" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/addResult.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/myImformation/myImformation.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="4" column="62" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="62" />
+          <caret line="4" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/java/Servlet/AddCommunity.java">
+    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/myImformation/myImformation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1127">
-          <caret line="56" column="49" lean-forward="false" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
+        <state relative-caret-position="23">
+          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../community/src/main/com/java/control/Databaseco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="40" column="61" lean-forward="false" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1531047663645" expanded="false" signature="8391:8405" ph="&lt;~&gt;" />
+            <marker date="1531047663645" expanded="false" signature="9230:9244" ph="&lt;~&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/viewCommunities.jsp">
+    <entry file="file://$PROJECT_DIR$/../community/src/main/com/java/model/Community.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/webapp/AddCommunity/viewdetail.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="72" lean-forward="false" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../community/src/main/java/model/Database.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="23">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -713,7 +1510,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>community:war</last-edited>
+          <last-edited>community:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

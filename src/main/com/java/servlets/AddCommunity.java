@@ -1,9 +1,14 @@
-package java.com.servlets;
+package com.java.servlets;
 
 
-//黄友明  2018/7/3
-import java.com.control.Databaseco;
-import java.com.model.Student;
+/*
+功能:申请加入社团的处理
+创建者:黄友明
+修改者:黄友明
+ */
+import com.java.control.Databaseco;
+import com.java.model.Community;
+import com.java.model.Student;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -19,11 +24,11 @@ public class AddCommunity extends HttpServlet {
     public Student student    = new Student();
     public void doPost(HttpServletRequest request, HttpServletResponse response)throws IOException,ServletException
     {
-        request.getSession().setAttribute("stu",student);
-        response.sendRedirect("/mainpages/afterlogin.jsp");
+       /* request.getSession().setAttribute("stu",student);
+        response.sendRedirect("/mainpages/afterlogin.jsp");*/
         //get which method to be used
         String methodName = request.getParameter("method");
-
+        System.out.println("name:"+methodName);
         try
         {
             Method method = getClass().getDeclaredMethod(methodName,HttpServletRequest.class,HttpServletResponse.class);//获得方法
@@ -42,13 +47,13 @@ public class AddCommunity extends HttpServlet {
     {
         /*String[][] communities = databaseco.viewCommnuities();
         request.setAttribute("communities",communities);*/
-        String[][] communities = databaseco.viewCommnuities();
+       Community[] communities = databaseco.viewCommnuities();
 
         request.getSession().setAttribute("communities",communities);
         RequestDispatcher view = request.getRequestDispatcher("/AddCommunity/viewCommunities.jsp");
         view.forward(request,response);
     }
-    protected void viewDetail(HttpServletRequest request, HttpServletResponse response)throws IOException, ServletException
+    /*protected void viewDetail(HttpServletRequest request, HttpServletResponse response)throws IOException, ServletException
     {
         String id = request.getParameter("comID");
        String[] viewDetail =  databaseco.viewDetail(id);
@@ -56,11 +61,11 @@ public class AddCommunity extends HttpServlet {
         RequestDispatcher view = request.getRequestDispatcher("/AddCommunity/viewdetail.jsp");
         view.forward(request,response);
 
-    }
+    }*/
     protected void applyCommunity(HttpServletRequest request, HttpServletResponse response)throws IOException, ServletException
     {
-       String stuID = (String)request.getSession().getAttribute("stuID");
-       if(stuID != null) {
+       /*String stuID = (String)request.getSession().getAttribute("stuID");*/
+       if(true) {
            //String commID = request.getParameter("comID");
            // databaseco.applyCommunity(stuID,commID);
            RequestDispatcher view = request.getRequestDispatcher("/AddCommunity/applyCommunity.jsp");
@@ -68,11 +73,11 @@ public class AddCommunity extends HttpServlet {
        }
        else
        {
-           String message = " login first please";
+          /* String message = " login first please";
            response.getWriter().println(" <script charset=\"UTF-8\">\n" +
                    "\t\t\t alert(\""+message+"\")\n" +
                    "\t\t " +
-                   "</script>");
+                   "</script>");*/
            try {
                Thread.sleep(2000);
            } catch (InterruptedException e) {
@@ -94,18 +99,18 @@ public class AddCommunity extends HttpServlet {
                 "</script>");
         response.getWriter().println("<script language=\"JavaScript\">\n" +
                 "    function Tomain() {\n" +
-                "        location.href = \"/index.jsp\";\n" +
+                "        location.href = \"/mainpages/afterlogin.jsp\";\n" +
                 "    }\n" +
                 "    setTimeout(Tomain(),300);\n" +
                 "</script>");
         /*RequestDispatcher view = request.getRequestDispatcher("/index.jsp");
         view.forward(request,response);*/
     }
-    protected void viewapllies(HttpServletRequest request, HttpServletResponse response)throws IOException, ServletException
+    /*protected void viewapllies(HttpServletRequest request, HttpServletResponse response)throws IOException, ServletException
     {
         String stuID = (String)request.getSession().getAttribute("stuID");
         RequestDispatcher view = request.getRequestDispatcher("/AddCommunity/viewapplies.jsp");
         view.forward(request,response);
 
-    }
+    }*/
 }

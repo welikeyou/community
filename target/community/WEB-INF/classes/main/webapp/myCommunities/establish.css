@@ -1,0 +1,14 @@
+/*
+功能:创建社团样式
+创建者:陆祎洲,董淑媛
+修改者:陆祎洲,董淑媛
+*/
+
+body{
+}
+div.mainbox{
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	width: 100%;
+}

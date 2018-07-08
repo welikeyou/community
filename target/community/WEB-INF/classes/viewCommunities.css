@@ -1,0 +1,138 @@
+
+/*
+功能:查看社团的样式
+创建者:陆祎洲,董淑媛
+修改者:陆祎洲,董淑媛
+*/
+
+body{
+}
+div.mainbox{
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	width: 100%;
+}
+div.content{
+	background-color: lightgrey;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+div.innercontent{
+	background-color: lightgrey;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+div.block{
+	width: 250px;
+	height: 320px;
+	margin: 0px; 
+}
+button.right{
+    float: left;
+}
+button.left{
+    float: left;
+}
+button:hover{
+    background-color: #f5f5f5;
+}
+
+.bgDiv{
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    opacity: .5;
+    position:fixed;
+    display: none;
+    z-index: 99;
+    bottom: 0;
+}
+.leftNav{
+    width: 50%;
+    max-width: 400px;
+    height: 100%;
+    background-color: #fff;
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    left: -50%;
+}
+.rightNav{
+    width: 50%;
+    max-width: 400px;
+    height: 100%;
+    background-color: #fff;
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    right: -50%;
+}
+/*社团海报图片*/
+img.block-img{
+	width: 250px;
+	height: 320px;
+	margin: 0px; 
+}
+img.block-img:hover{
+	transition: 0.4s;
+	transform: scale(1.05);
+	box-shadow: 2px 2px 3px 1px grey;
+
+}
+img.block-img:active{
+	transition: 0.1s;
+	transform: scale(1.02);
+}
+/*申请加入按钮*/
+button.apply{
+	margin: 0px;
+	position: relative;
+	top: -50px;
+	left: 200px;
+	border-style: none;
+	visibility: hidden;
+	width: 50px;height: 50px;
+	border-radius: 25px;
+	color: white;
+	box-shadow: 2px 2px 3px 1px grey;
+	background-color: #66331f;
+}
+button.apply:hover{
+	background-color: #9E4C00;
+	transform: scale(1.05);
+}
+button.apply:active{
+	background-color: #66331f;
+	transform: scale(1.02);
+}
+div.block:hover button.apply{
+	visibility: visible;
+	animation: appear ease-out 0.5s forwards;
+}
+@keyframes appear{
+	0%{opacity: 0;left: 150px;transform: rotateZ(-180deg);}
+	100%{opacity: 1;left: 200px;transform: rotateZ(0deg);}
+}
+table{
+	width:80%;
+	margin-top:12%;
+	margin-left:5%;
+	position:absolute;
+	border:0;
+}
+p{
+	margin-top:10%;
+	text-align:center;
+}
+.later{
+    width: 60%;
+    height: auto;
+    word-wrap:break-word;
+    word-break:break-all;
+    overflow: hidden;
+	padding:2px;
+}

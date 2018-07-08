@@ -5,7 +5,7 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
   <welcome-file-list>
-    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>/mainpages/login.jsp</welcome-file>
   </welcome-file-list>
   <servlet-mapping>
     <servlet-name>AddCommunity.do</servlet-name>
@@ -13,6 +13,35 @@
   </servlet-mapping>
   <servlet>
     <servlet-name>AddCommunity.do</servlet-name>
-    <servlet-class>AddCommunity</servlet-class>
+    <servlet-class>com.java.servlets.AddCommunity</servlet-class>
   </servlet>
+
+
+  <servlet>
+    <servlet-name>mapages.do</servlet-name>
+    <servlet-class>com.java.servlets.mainpage</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>mapages.do</servlet-name>
+    <url-pattern>/mapages.do</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>IoServlet.do</servlet-name>
+    <servlet-class>com.java.servlets.loServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>IoServlet.do</servlet-name>
+    <url-pattern>/IoServlet.do</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>update.do</servlet-name>
+    <servlet-class>com.java.servlets.Update</servlet-class>
+  </servlet>
+ <servlet-mapping>
+   <servlet-name>update.do</servlet-name>
+   <url-pattern>/update.do</url-pattern>
+ </servlet-mapping>
+
 </web-app>
