@@ -9,7 +9,7 @@
 <%@ page isELIgnored="false" %>
 <div class="mainbox">
     <div class="topside">
-        <div class="logo"><img src="/pic/slogen.png"></div>
+        <div class="logo"><img src="/pic/logo_blue.png"></div>
         <div class="sectionlist">
             <form action="/mapages.do" method="post" id="topform">
                 <button class="section" id="section-header"    type="button" onclick="Tomain()" >首页</button>
@@ -23,10 +23,10 @@
                         %>
                 <button class="section" id="section-mine"      type="button" onclick="act('viewMyCommunities')">我的社团</button>
 
-                <button class="section" id="section-personal" type="button"  onclick="act('viewMyImformation');ShowDiv('safecodeupdate','fade')">个人中心</button>
+                <button class="section" id="section-personal" type="button"  onclick="act('showTask');ShowDiv('safecodeupdate','fade')">个人中心</button>
 
                 <%
-                    if(student.getId().equals("7777") )
+                    if(student.getId().equals("13972229703") )
                     {
                 %>
                 <button class="section" id="section-personal" type="button"  onclick="act('reviewCreate_Apply')">社团审核</button>
@@ -55,7 +55,7 @@
             </form>
         </div>
         <div class="head" id="head">
-            <img src="/pic/logo.png">
+            <img src="${loginStudent.getLogo()}">
             <p>欢迎你：${loginStudent.getName()}</p>
         </div>
     </div>

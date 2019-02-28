@@ -1,0 +1,60 @@
+.mainbox{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 2px;
+	padding-top: 10px;
+}
+#zijin{
+margin-top:2%;
+margin-left:5%;
+}
+#zijin2{
+	overflow-y:scroll;
+	height:110px;
+}
+#zijintable th,#zijintable2 td{
+	width:165px;
+	text-align:center;
+}
+.canvas{
+	margin:2px;
+	display: flex;
+	flex-direction: row;
+}
+#canvas1{
+	border:1px solid black;
+	margin-right: 10px;
+	width:520px;
+	height:320px;
+}
+#canvas2{
+	border:1px solid black;
+	width:520px;
+	height:320px;
+}
+.black_overlay{
+	display: none;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 100%;
+	background-color: grey;
+	z-index:1001;
+	-moz-opacity: 0.8;
+	opacity:.80;
+	filter: alpha(opacity=80);
+}
+.white_content {
+	display: none;
+	position: absolute;
+	top: 25%;
+	left: 30%;
+	width: 30%;
+	height: 50%;
+	background-color: white;
+	z-index:1002;
+	overflow: auto;
+}

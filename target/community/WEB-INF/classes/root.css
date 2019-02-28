@@ -1,110 +1,185 @@
-/*
-功能:审核页面样式
-创建者:陆祎洲,董淑媛
-修改者:陆祎洲,董淑媛
-*/
-
-body{
-}
+/*审核界面样式 作者：陆祎洲*/
 div.mainbox{
 	margin: 0px;
 	padding: 0px;
 	height: 100%;
 	width: 100%;
-}
-div.topside{
 	display: flex;
-	flex-direction: row;
-	border-bottom: 2px solid #66331f; 
-	box-shadow: 0px 2px 1px 0px grey;
+	flex-direction: column;
+	align-items: center;
+	padding-top: 30px;
 }
-div.logo{
+/*弹出窗口样式*/
+.black_overlay{
+	display: none;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	background-color: grey;
+	z-index:1001;
+	opacity:.80;
+	filter: alpha(opacity=80);
+}
+
+.white_content {
+	display: none;
+	position: absolute;
+	top: 5%;
+	left: 20%;
+	width: 60%;
+	height: 70%;
+	background-color: none;
+	z-index:1002;
+}
+
+/*弹出窗口样式结束*/
+
+/*表格样式*/
+
+table{
+	margin: 10px;
+	margin-bottom: 10px;
+	font-size:22px; 
+	border: 1px solid #014c86;
+	border-radius: 4px;
+	background-color: #fff;
+	border-collapse: collapse;
+	box-shadow: 1px 1px 2px 0px #4c6c85;
+}
+table.checked{
+	margin-top: 2px;
+}
+thead{
+	display: block;
+}
+tbody.scrolltbody{
+	display: block;
+	overflow-y: scroll;
+	height: 300px
+}
+th{
+	padding: 8px 0px 8px 0px;
+	color: #007BD9;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #007BD9;
+}
+td{
+	padding: 5px;
+	vertical-align: top;
+
+	border: 1px solid grey;
+
+	text-align-last: start;
+	color: #666;
+	font-size: 16px;
+	border-style: none;
+	width: 150px;
+}
+tr{
+	border-bottom: 1px solid #007bd9;
+}
+tr.establish-apply-uck:hover,tr.establish-apply-ck:hover{
+	background-color: #e4f1fe;
+	transition: 0.2s;
+	transform: scaleX(1.02);
+}
+button.table-button{
+	color: #007bd9;
+	outline: none;
+	height: 30px;
+	width: auto;
+	text-align: center;
+	vertical-align: middle;
+	border-style: none;
+	border: 1px #007BD9 solid;
+	border-radius: 2px;
+	position: relative;
+	left:2px;
+	background-color: #fff;
+	box-shadow: 0px 0px 1px 0px #007BD9;
+	margin: 8px 10px 2px 0px;
+}
+button.table-button:hover{
+	background-color: #007bd9;
+	color: #fff;
+	transition: 0.3s;
+}
+button#red{
+	color: #ea5554;
+	border: 1px #ea5554 solid;
+	box-shadow: 0px 0px 1px 0px #ea5554;
+}
+button#red:hover{
+	background-color: #ea5554;
+	color: #fff;
+	transition: 0.3s;
+}
+button#green{
+	color: #12C20E;
+	border: 1px #12C20E solid;
+	box-shadow: 0px 0px 1px 0px #12C20E;
+}
+button#green:hover{
+	background-color: #12C20E;
+	color: #fff;
+	transition: 0.3s;
+}
+td>p:hover{
+	text-decoration: underline;
+}
+/*表格样式结束*/
+
+/*详细信息样式*/
+table.details{
+	border:none;
+	box-shadow: 2px 2px 4px 1px #4c6c85;
+}
+
+table.details>tbody>tr{
+	border: none;
+}
+table.details>tbody>tr>td{
+	padding: 10px 15px;
+	border: none;
 	width: auto;
 }
-div.sectionlist{
-	width: 50%;
-	display: flex;
-	flex-direction: row;
-	align-items: flex-end;
+textarea{
+	width: 100%;
 }
-/*导航栏按钮*/
-button.section{
-	color: white;
-	border-style: none;
-	background-color: #0094FF;
-	margin-left: 8px;
-	margin-bottom: 2px;
+textarea:focus {
+	box-shadow: 0px 0px 3px 0px #007BD9;
+	border: 1px solid #fff;
 }
-div.section:hover{
-	transition: 0.3s;
-	background-color: #0094d0;
+div#details>div>span{
+	color:#fff;
+	background-color: #007BD9;
+	border-radius: 0px 0px 8px 8px;
+	position: absolute;
+	left: 760px;
+	top: 10px;
+	padding-top: 20px;
 }
-div.head{
-	width: 25%;
-	padding-right: 5px;
-	margin-left: 10px;
-	float: right;
+span>p{
+	margin: 0px 2px 0px 2px;
 }
-table.uncheck>tr{
-	border:1px solid black;
+span:hover p.cancel{
+	transform: rotateZ(1440deg);
+	transition: 2s;
+	transition-timing-function: ease-in-out;
 }
-.uncheck{
-	border-collapse:collapse;
-	width:80%;
-	margin-top:0.5%;
-	margin-left:10%;
-	position:relative;
-}
-table.checked>tr{
-	border:1px solid black;
-}
-.checked{
-	border-collapse:collapse;
-	width:80%;
-	margin-top:0.5%;
-	margin-left:10%;
-	position:relative;
-}
-.black_overlay{
- display: none;
- position: absolute;
- top: 0%;
- left: 0%;
- width: 100%;
- height: 100%;
- background-color: grey;
- z-index:1001;
- -moz-opacity: 0.8;
- opacity:.80;
- filter: alpha(opacity=80);
-}
-.white_content {
- display: none;
- position: absolute;
- top: 20%;
- left: 20%;
- width: 60%;
- height: 70%;
- background-color: white;
- z-index:1002;
- overflow: auto;
-}
-.former {
-    width: 40%;
-    height: auto;
-    word-wrap:break-word;
-    word-break:break-all;
-    overflow: hidden;
-	padding:2px;
-}
-.later{
-    width: 60%;
-    height: auto;
-    word-wrap:break-word;
-    word-break:break-all;
-    overflow: hidden;
-	padding:2px;
-}
-.button3{
-border:0;
-}
+
+/*详细信息样式结束*/
+tbody.scrolltbody::-webkit-scrollbar {/*滚动条整体样式*/
+        width: 8px;     /*高宽分别对应横竖滚动条的尺寸*/
+        height: 1px;
+    }
+tbody.scrolltbody::-webkit-scrollbar-thumb {/*滚动条里面小方块*/
+        border-radius: 2px;
+        background: #999;
+    }
+tbody.scrolltbody::-webkit-scrollbar-track {/*滚动条里面轨道*/
+        border-radius: 2px;
+        background: #eee;
+    }

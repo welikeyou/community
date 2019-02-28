@@ -31,6 +31,8 @@ public class Update extends HttpServlet {
 	{
 		//System.out.println("修改");
 		//get which method to be used
+		request.setCharacterEncoding("UTF-8");
+		response.setCharacterEncoding("UTF-8");
 		String methodName = request.getParameter("method");
 		//this.getServletContext().setAttribute("methodSelectByUpdate","reviewCreate_Apply");
 		try

@@ -15,6 +15,19 @@ public class Student {
     private String address;
     private String hobby;
     private String slogan;
+    private String logo;
+    public void check()
+    {
+        if(logo == null)
+            logo = "/pic/lemon.png";
+    }
+    public void setLogo(String logo) {
+        this.logo = logo;
+    }
+
+    public String getLogo() {
+        return logo;
+    }
 
     public String getId() {
         return id;

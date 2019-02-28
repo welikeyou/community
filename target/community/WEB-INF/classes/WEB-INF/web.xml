@@ -3,18 +3,19 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
-  <display-name>Archetype Created Web Application</display-name>
+
   <welcome-file-list>
     <welcome-file>/mainpages/login.jsp</welcome-file>
   </welcome-file-list>
+    <servlet>
+        <servlet-name>AddCommunity.do</servlet-name>
+        <servlet-class>com.java.servlets.AddCommunity</servlet-class>
+    </servlet>
   <servlet-mapping>
     <servlet-name>AddCommunity.do</servlet-name>
     <url-pattern>/AddCommunity.do</url-pattern>
   </servlet-mapping>
-  <servlet>
-    <servlet-name>AddCommunity.do</servlet-name>
-    <servlet-class>com.java.servlets.AddCommunity</servlet-class>
-  </servlet>
+
 
 
   <servlet>
@@ -44,4 +45,70 @@
    <url-pattern>/update.do</url-pattern>
  </servlet-mapping>
 
+  
+  <servlet>
+    <servlet-name>assignment.do</servlet-name>
+    <servlet-class>com.java.servlets.assiginment</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>assignment.do</servlet-name>
+    <url-pattern>/assignment.do</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>clubChange.do</servlet-name>
+    <servlet-class>com.java.servlets.clubChange</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>clubChange.do</servlet-name>
+    <url-pattern>/clubChange.do</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>manageMember.do</servlet-name>
+    <servlet-class>com.java.servlets.manageMember</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>manageMember.do</servlet-name>
+    <url-pattern>/manageMember.do</url-pattern>
+  </servlet-mapping>
+    <servlet>
+        <servlet-name>Update_Join.do</servlet-name>
+        <servlet-class>com.java.servlets.Update_Join</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Update_Join.do</servlet-name>
+        <url-pattern>/Upadate_Join.do</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>Fund_Manage.do</servlet-name>
+        <servlet-class>com.java.servlets.Fund_Manage</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Fund_Manage.do</servlet-name>
+        <url-pattern>/Fund_Manage.do</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>comMain.do</servlet-name>
+        <servlet-class>com.java.servlets.comMain</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>comMain.do</servlet-name>
+        <url-pattern>/comMain.do</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>Update_Act.do</servlet-name>
+        <servlet-class>com.java.servlets.Update_Act</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Update_Act.do</servlet-name>
+        <url-pattern>/Update_Act.do</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>receiveTask.do</servlet-name>
+        <servlet-class>com.java.servlets.receiveTask</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>receiveTask.do</servlet-name>
+        <url-pattern>/receiveTask.do</url-pattern>
+    </servlet-mapping>
 </web-app>

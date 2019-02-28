@@ -43,6 +43,7 @@ public Databaseco databaseco = new Databaseco();
     public void doPost(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException {
 
         request.setCharacterEncoding("UTF-8");
+        response.setCharacterEncoding("UTF-8");
 
         //get which method to be used
         String methodName = request.getParameter("method");
@@ -61,55 +62,29 @@ public Databaseco databaseco = new Databaseco();
     }
     protected void register(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException
     {
-        //添加操作
-
+       // System.out.println("调用了register方法");
         //需要获取的数据是用户电话号码（账号），密码
-        String account = (String) request.getParameter("regaccount");//account是传过来的用户账号name属性
-        String password1 = (String) request.getParameter("regpassword1");
-        String password2 = (String) request.getParameter("regpassword2");
+        String account = (String) request.getParameter("jaccount");//account是传过来的用户账号name属性
+       // System.out.println(account+"accout");
+        String password=(String)request.getParameter("jpassword");
 
-
-        //验证密码是否符合要求,即密码长度在6~18位，是否包含中文
-        //code
-        String warn;
-        Pattern pat = Pattern.compile("[\u4e00-\u9fa5]");
-        Matcher matcher = pat.matcher(password1);
-        if (matcher.find()) {
-            warn = "the password can't contain Chinese!";
-            System.out.println(warn);
-            returnwarn(warn,"/SelfInfo/login.jsp",request,response);
-            //returnwarn为自定义函数
-        }
-        else if (password1.length() < 6) {
-            warn = "密码不能少于6位";
-            returnwarn(warn,"/SelfInfo/login.jsp",request,response);
-        } else if (password1.length() > 18) {
-            warn = "密码不能多于18位";
-            returnwarn(warn,"/SelfInfo/login.jsp",request,response);
-        }
-        else if(!password2.equals(password1))
+        // 验证原表中是否已存在相同的账号,存在则返回true，不存在则返回false
+         if(databaseco.checkRegister(account,password))
+       // if(account=="123")
         {
-            warn = "两次输入的密码不一致";
-            returnwarn(warn,"/SelfInfo/login.jsp",request,response);
-
+            response.getWriter().println("账号已存在");
         }
-        // 验证原表中是否已存在相同的账号
-       if(databaseco.checkRegister(account,password1))
-       {
-           warn="the same account already exists";
+        else
+        {
+           // response.getWriter().println("false");
+        }
 
-           returnwarn(warn,"/mainpages/login.jsp",request,response);
-       }
-       else
-       {
-           response.sendRedirect("/mainpages/login.jsp");
-       }
-}
+    }
 protected void login(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException
 {
     //获取表单传过来的数据
-    String account = (String)request.getParameter("account");
-    String password = (String)request.getParameter("password");
+    String account = request.getParameter("jaccount");
+    String password = request.getParameter("jpassword");
     String yanzhengpw  =  databaseco.getPwdByStuName(account);
     if(yanzhengpw.equals(password.trim()))
     {
@@ -118,15 +93,17 @@ protected void login(HttpServletRequest request, HttpServletResponse response) t
         //request.setAttribute("accounttologin", account);//传递了账号信息
         Student student = databaseco.getStuByStuID(account);
         request.getSession().setAttribute("loginStudent",student);
+        //response.getWriter().println("登录成功");
         //request.getRequestDispatcher("").forward(request, response);
-        response.sendRedirect("/mainpages/afterlogin.jsp");
+       // response.sendRedirect("/mainpages/afterlogin.jsp");
     }
     else
     {
+        response.getWriter().println("密码错误");
         //提示密码输入错误
         //发送提示信息到login页面
-        String warn2="account or password error";
-        returnwarn(warn2,"/mainpages/login.jsp",request,response);
+       // String warn2="account or password error";
+      //  returnwarn(warn2,"/mainpages/login.jsp",request,response);
     }
 
 }
@@ -172,6 +149,7 @@ student.setBirthday(request.getParameter("Infobirthday"));
 student.setAddress( request.getParameter("Infoaddress"));
 student.setHobby(request.getParameter("Infohobby"));
 student.setSlogan(request.getParameter("Infoslogan"));
+student.setLogo((request.getParameter("infologo")));
 request.getSession().setAttribute("loginStudent",student);
 databaseco.UpdateStu(student);
 /*
@@ -232,40 +210,21 @@ databaseco.UpdateStu(student);
 
    response.sendRedirect("/myImformation/myImformation.jsp");
 }
-protected void changepwd(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException {
-    String warn;
-    //修改密码时需要同时显示账号、需要输入原始密码、需要输入新密码、需要确认新密码
-    //String pwaccount=request.getParameter("pwaccount");//account是传过来的用户账号name属性
-    String oldpassword = request.getParameter("oldpassword");
-    String newpassword1 = request.getParameter("newpassword1");
-    String newpassword2 = request.getParameter("newpassword2");
-    Student student = (Student) request.getSession().getAttribute("loginStudent");
-    String yanzhengpw = databaseco.getPwdByStuID(student.getId());
-    if (oldpassword.trim().equals(yanzhengpw)) {
-        if (newpassword1.trim().length() < 6) {
-            warn = "password should not be less than 6!";
-            returnwarn(warn, "/myImformation/myImformation.jsp", request, response);
-
-        } else if (newpassword1.trim().length() > 18) {
-            warn = "password should not be more than 18!";
-            returnwarn(warn, "/myImformation/myImformation.jsp", request, response);
-        } else if (newpassword1.trim().equals(newpassword2.trim())) {
+    protected void changepwd(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException {
+        String oldpassword=request.getParameter("joldpassword");
+        String newpassword1 = request.getParameter("jpassword");
+        Student student = (Student) request.getSession().getAttribute("loginStudent");
+        String yanzhengpw = databaseco.getPwdByStuID(student.getId());
+        if (oldpassword.trim().equals(yanzhengpw)) {
             databaseco.UpdatePwdByStuID(student.getId(), newpassword1);
-            warn = "password has been changed successfully!";
-            returnwarn(warn, "/myImformation/myImformation.jsp", request, response);
-
-        } else {
-            warn = "the two password you typed do not match!";
-            returnwarn(warn, "/myImformation/myImformation.jsp", request, response);
+            response.getWriter().println("密码修改成功");
         }
-    } else {
-        //提示密码输入错误
-        //发送提示信息到login页面
-        warn = "original password error!";
-        returnwarn(warn, "/myImformation/myImformation.jsp", request, response);
-
+        else
+        {
+            response.getWriter().println("密码修改失败");
+        }
     }
-}
+
 
    /* try {
         rs=DB.stuQuery(pwaccount);

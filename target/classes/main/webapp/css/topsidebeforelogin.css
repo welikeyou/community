@@ -1,0 +1,93 @@
+    /*导航栏统一样式 作者：陆祎洲*/
+    .logo{
+        padding: 2px;
+        padding-left: 10px;
+    }
+    div.topside{
+        display: flex;
+        height: 70px;
+        flex-direction: row;
+        background-color: none;
+        width: 100%;
+        border-bottom: 2px solid #fff;
+    }
+    body{
+        margin: 0px;
+        background-color: #eee;
+    }
+    #head>img{
+        width: 30px;height: 30px;border:1px solid #fff;border-radius: 50%;background-color: #fff;margin-left: 4px;
+        margin-right: 10px;
+    }
+    div.head{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        width: 100px;
+        height: 100%;
+        text-align: left;
+        padding: 2px;
+    }
+    #head>p{
+        font-size: 14px;
+        color: white;
+    }
+    div.sectionlist{
+        width: 100%;
+        padding-right: 10px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+    }
+    /*导航栏按钮*/
+    button.section{
+        outline: none;
+        color: #fff;
+        font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+        border-style: none;
+        background: none;
+        font-size: 14px;
+        height: 100%;
+        margin-right: 5px;
+        width: 70px;
+    }
+    button#section-login{
+        color: #fff;
+        border-radius: 2px;
+        border-style: none;
+        height: 40%;
+        border: 1px #fff solid;
+    }
+    button#section-login:hover{
+        transition: 0.3s;
+        color: #333;
+        background-color: #fff;
+    }
+    button.section:active{
+        transition: 0.1s;
+        transform: scale(1.1);
+        transition-timing-function: ease-in-out;
+    }
+    button.section:hover{
+        transition: 0.1s;
+        color: #fff;
+        border-bottom: 4px #fff solid;
+    }
+    .webfoot{
+        box-shadow: -2px -2px 2px 0px rgba(100,100,100,0.5);
+        height: 10%;
+        width: 100%;
+        top: 100%;
+        margin-bottom: 0px;
+        background-color: rgba(250,250,250,0.8);
+        position: absolute;
+    }
+    .webfoot>table{
+        color: #007bd9;
+        padding-top: 10px;
+    }
+    td{
+        padding:5px 2px 5px 2px;
+    }

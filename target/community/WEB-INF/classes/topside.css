@@ -1,34 +1,97 @@
-/*导航栏统一样式 作者：陆祎洲*/
-div.topside{
-	display: flex;
-	flex-direction: row;
-	border-bottom: 2px solid #66331f; 
-}
-div.logo{
-	height: scale(0.5);
-	width: scale(0.5);
-}
-div.sectionlist{
-	width: 50%;
-	display: flex;
-	flex-direction: row;
-	align-items: flex-end;
-}
-/*导航栏按钮*/
-button.section{
-	color: white;
-	border-style: none;
-	background-color: #0094FF;
-	margin-left: 8px;
-	margin-bottom: 2px;
-}
-button.section:hover{
-	transition: 0.3s;
-	background-color: #0094d0;
-}
-div.head{
-	width: 25%;
-	padding-right: 5px;
-	margin-left: 10px;
-	float: right;
-}
+    /*导航栏统一样式 作者：陆祎洲*/
+    .logo{
+        padding: 2px;
+        padding-left: 10px;
+    }
+    div.topside{
+        display: flex;
+        height: 70px;
+        flex-direction: row;
+        background-color: #fff;
+        width: 100%;
+        border-bottom: 2px solid #007BD9;
+    }
+    body{
+        margin: 0px;
+        background-color: #eee;
+    }
+    #head>img{
+        width: 30px;height: 30px;border:1px solid #007BD9;border-radius: 50%;background-color: #fff;margin-left: 4px;
+        margin-right: 10px;
+    }
+    div.head{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        width: 100px;
+        height: 100%;
+        text-align: left;
+        padding: 2px;
+    }
+    #head>p{
+        font-size: 14px;
+        color: #007BD9;
+    }
+    div.sectionlist{
+        width: 100%;
+        padding-right: 10px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+    }
+    /*导航栏按钮*/
+    button.section{
+        outline: none;
+        color: #007BD9;
+        font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+        border-style: none;
+        background: none;
+        font-size: 14px;
+        height: 100%;
+        margin-right: 5px;
+        width: 70px;
+    }
+/*    button.section:before {
+        content:"";
+        position:absolute;
+        top:58px;
+        left:4px;
+        display: block;
+        border-top:5px solid transparent;
+        border-bottom: 5px solid transparent;
+        border-left: 5px solid #007BD9;
+    }   */
+    button#section-login{
+        color: #007BD9;
+        border-radius: 2px;
+        border-style: none;
+        height: 40%;
+        border: 1px #007BD9 solid;
+    }
+    button#section-login:hover{
+        transition: 0.3s;
+        color: #fff;
+        background-color: #007BD9;
+    }
+    button.section:active{
+        transition: 0.1s;
+        transform: scale(1.1);
+        transition-timing-function: ease-in-out;
+    }
+    button.section:hover{
+        transition: 0.1s;
+        color: #007BD9;
+        border-bottom: 4px #007BD9 solid;
+    }
+    /*页脚*/
+    .webfoot{
+        box-shadow: -2px -2px 2px 0px rgba(100,100,100,0.5);
+        height: 10%;
+        width: 100%;
+        top: 90%; 
+        margin-bottom: 0px;
+        background-color: #fff;
+        position: absolute;
+    }

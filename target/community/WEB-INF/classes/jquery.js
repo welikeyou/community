@@ -1,10 +1,3 @@
-
-/*
-功能:轮播的逻辑
-创建者:陆祎洲,董淑媛
-修改者:陆祎洲,董淑媛
-*/
-
 /*!
  * jQuery JavaScript Library v2.1.1
  * http://jquery.com/

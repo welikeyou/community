@@ -1,0 +1,37 @@
+#table{
+	position: absolute;
+	top:25%;
+	left:30%;
+}
+#fj{
+		width:80px;
+		text-align: center;
+		font-size: 12px;
+		line-height: 30px;
+		cursor: pointer;
+		color: #007BD9;
+		background: #fff;
+		border: 1px solid #007BD9;
+		border-radius: 2px;
+		box-shadow: 0px 0px 1px 0px #007BD9;
+		overflow: hidden;
+	}
+	#fj:hover{
+		color: #fff;
+		background-color: #007BD9;
+		transition: 0.3s;
+	}
+	#fj:active{
+		color: #fff;
+		background-color: #0065b2;
+	}
+	#fj input{
+		width: 100px;
+		position: absolute;
+		left: 0;
+		margin-top: 0;
+		margin-bottom:0;
+		opacity: 0;
+		filter: alpha(opacity=0);
+		cursor: pointer;
+	}

@@ -1,87 +1,63 @@
-<%@ page import="com.java.model.Student" %>
-<!--轮播、表格：董淑媛 ，整合：陆祎洲,修改:黄友明-->
+ <!--轮播、表格：董淑媛 ，整合：陆祎洲-->
  <!DOCTYPE html>
  <html>
  <%@ page isELIgnored="false" %>
  <%@ page contentType="text/html;charset=UTF-8" language="java" %>
  <head>
-   <%
-     String path = request.getRequestURI();
-     String basePath = request.getScheme() + "://"
-             + request.getServerName() + ":" + request.getServerPort()
-             + path;
-   %>
-   <base href="<%=basePath%>">
+  <meta charset="UTF-8">
   <title>可乐网-打开可乐，发现惊喜</title>
-  <link rel="icon" href="/pic/logo.png" type="image/x-icon"/>
-  
-  <link rel="stylesheet" type="text/css" href="/common/login.css">
-  <link rel="stylesheet" type="text/css" href="/common/topside.css">
-  <link rel="stylesheet" type="text/css" href="/common/lunbo.css">
-  <link rel="stylesheet" type="text/css" href="/common/mainpage.css" />
-
-  <script type="text/javascript" src="/common/mainpage.js"></script>
-  <script type="text/javascript" src="/common/login.js"></script>
-  <script type="text/javascript" src="/common/lunbo.js"></script>
+  <link rel="icon" href="/pic/logo_blue.png" type="image/x-icon"/>
+  <link rel="stylesheet" type="text/css" href="/css/login.css">
+  <link rel="stylesheet" type="text/css" href="/css/lunbo.css">
+  <link rel="stylesheet" type="text/css" href="/css/topside.css">
+  <script type="text/javascript" src="/js/login.js"></script>
+  <script type="text/javascript" src="/js/lunbo.js"></script>
 </head>
 
-<body>
-
-    <jsp:include page="/common/AfterLoginTittle.jsp"/>
+<body style="background-image:url('/pic/bg.png')">
+ <%-- <div class="mainbox">
+    <div class="topside">
+      <div class="logo"><img src="/pic/logo_blue.png"></div>
+      <div class="sectionlist">
+        <button class="section" id="section-header">首页</button>
+        <button class="section" id="section-recruit">社团招新</button>
+        <button class="section" id="section-activity">社团活动</button>
+        <button class="section" id="section-mine">我的社团</button>
+        <button class="section" id="section-personal">个人中心</button>
+        <div class="head" id="head">
+          <img src="pic/lemon.png" style="">
+          <p>你好：XXX</p>
+        </div>
+      </div>
+    </div>--%>
+ <jsp:include page="/common/AfterLoginTittle.jsp"/>
+    <!-- 右侧信息栏 -->
+ <!--    <div class="info-bar">
+      <p>About us</p>
+      <p>info...</p>
+      <p>info...</p>
+      <button id="joinus">join us</button>
+    </div> -->
+    <!--轮播界面-->
     <div class="pptbox">
       <div id="box">
         <ul>
-          <li><a href="javascript:;"><img src="/pic/ppt1.jpg" alt=""></a></li>
-          <li><a href="javascript:;"><img src="/pic/ppt2.jpg" alt=""></a></li>
-          <li><a href="javascript:;"><img src="/pic/ppt3.jpg" alt=""></a></li>
+          <li><a href="javascript:;"><img src="/pic/1.jpg" alt=""></a></li>
+          <li><a href="javascript:;"><img src="/pic/2.jpg" alt=""></a></li>
+          <li><a href="javascript:;"><img src="/pic/3.jpg" alt=""></a></li>
+          <li><a href="javascript:;"><img src="/pic/4.jpg" alt=""></a></li>
+          <li><a href="javascript:;"><img src="/pic/5.jpg" alt=""></a></li>
         </ul>
-        <a id="prev"><</a>
-        <a id="next">></a>
+      </div>
+      <div class = "buttons">
+        <button id="first"></button>
+        <button id="second"></button>
+        <button id="third"></button>
+        <button id="fourth"></button>
+        <button id="fifth"></button>
       </div>
     </div>
     <!--创作者：董淑媛 功能：实现主页面图片轮播-->
-    <!--弹出时背景层DIV-->
-    <div id="fade" class="black_overlay"></div>
-
-    <!--弹出登录表格-->
-    <div id="logintable" class="white_content">
-      <div style="text-align: right; cursor: default; height: 40px;">
-        <span style="font-size: 20px;font-weight:bold" onclick="CloseDiv('logintable','fade')">关闭</span>
-      </div>
-      <table>
-        <tr>
-          <td>账号：</td><td><input type="text" style="height:25px;width:150px;" /></td>
-        </tr>
-        <tr>
-          <td>密码：</td><td><input type="text" style="height:25px;width:150px;" /></td>
-        </tr>
-        <tr style="column-span: 2;">
-          <td><button type="button" style="">登录</button></td>
-          <td><button type="button" style="border:1px solid #66331f ">注册</button></td>
-        </tr>
-      </table>
-    </div>
-
-    <!--弹出注册表格-->
-    <div id="signtable" class="white_content">
-      <div style="text-align: right; cursor: default; height: 40px;">
-        <span style="font-size: 20px;font-weight:bold" onclick="CloseDiv('signtable','fade')">关闭</span>
-      </div>
-      <table>
-        <tr>
-          <td>手机号：</td><td><input type="text" style="height:25px;width:150px;" />
-          </td>
-        </tr>
-        <tr>
-          <td>密码：</td><td><input type="password" style="height:25px;width:150px;" />
-          </td>
-        </tr>
-        <tr style="column-span: 2;">
-          <td><button type="button" style="width: 50px;height: 25px;">登录</button></td>
-          <td><button type="button" style="width: 50px;height: 25px;">取消</button></td>
-        </tr>
-      </table>
-    </div>
   </div>
 </body>
 </html>

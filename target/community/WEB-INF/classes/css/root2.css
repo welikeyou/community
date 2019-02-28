@@ -1,0 +1,197 @@
+/*审核界面样式 作者：陆祎洲*/
+div.mainbox{
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding-top: 30px;
+}
+/*弹出窗口样式*/
+.black_overlay{
+	display: none;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	background-color: grey;
+	z-index:1001;
+	opacity:.80;
+	filter: alpha(opacity=80);
+}
+
+.white_content {
+	display: none;
+	position: absolute;
+	top: 5%;
+	left: 20%;
+	width: 800px;
+	height: 70%;
+	background-color: none;
+	z-index:1002;
+	padding-top: 100px;
+}
+
+/*弹出窗口样式结束*/
+
+/*表格样式*/
+
+table{
+	margin: 10px;
+	margin-bottom: 10px;
+	font-size:22px; 
+	border: 1px solid #014c86;
+	border-radius: 4px;
+	background-color: #fff;
+	border-collapse: collapse;
+	box-shadow: 1px 2px 2px 1px rgba(0,50,120,0.3);
+}
+table.checked{
+	margin-top: 2px;
+}
+thead{
+	display: block;
+}
+tbody.scrolltbody{
+	display: block;
+	overflow-y: scroll;
+	height: 300px
+}
+th{
+	padding: 8px 0px 8px 0px;
+	color: #007BD9;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #007BD9;
+}
+td{
+	padding: 5px;
+	vertical-align: top;
+
+	border: 1px solid grey;
+
+	text-align-last: start;
+	color: #666;
+	font-size: 16px;
+	border-style: none;
+	width: 150px;
+}
+tr{
+	border-bottom: 1px solid #007bd9;
+}
+tr.establish-apply-uck:hover,tr.establish-apply-ck:hover{
+	background-color: #e4f1fe;
+	transition: 0.2s;
+	transform: scaleX(1.02);
+}
+button.table-button{
+	color: #007bd9;
+	outline: none;
+	height: 30px;
+	width: auto;
+	text-align: center;
+	vertical-align: middle;
+	border-style: none;
+	border: 1px #007BD9 solid;
+	border-radius: 2px;
+	position: relative;
+	left:2px;
+	background-color: #fff;
+	box-shadow: 0px 0px 1px 0px #007BD9;
+	margin: 8px 10px 2px 0px;
+}
+button.table-button:hover{
+	background-color: #007bd9;
+	color: #fff;
+	transition: 0.3s;
+}
+button#red{
+	color: #ea5554;
+	border: 1px #ea5554 solid;
+	box-shadow: 0px 0px 1px 0px #ea5554;
+}
+button#red:hover{
+	background-color: #ea5554;
+	color: #fff;
+	transition: 0.3s;
+}
+button#green{
+	color: #099404;
+	border: 1px #099404 solid;
+	box-shadow: 0px 0px 1px 0px #099404;
+}
+button#green:hover{
+	background-color: #099404;
+	color: #fff;
+	transition: 0.3s;
+}
+button#yellow{
+	color: #F6BC08;
+	border: 1px #F6BC08 solid;
+	box-shadow: 0px 0px 1px 0px #F6BC08;
+}
+button#yellow:hover{
+	background-color: #F6BC08;
+	color: #fff;
+	transition: 0.3s;
+}
+td>p:hover{
+	text-decoration: underline;
+}
+/*表格样式结束*/
+
+/*详细信息样式*/
+table.details{
+	border:none;
+	box-shadow: 2px 2px 4px 1px #4c6c85;
+}
+
+table.details>tbody>tr{
+	border: none;
+}
+table.details>tbody>tr>td{
+	padding: 10px 15px;
+	border: none;
+	width: auto;
+}
+textarea{
+	width: 100%;
+}
+textarea:focus {
+	box-shadow: 0px 0px 3px 0px #007BD9;
+	border: 1px solid #fff;
+}
+div#details>div>span{
+	color:#fff;
+	background-color: #007BD9;
+	border-radius: 0px 0px 8px 8px;
+	position: absolute;
+	left: 90%;
+	top: 109px;
+	padding-top: 20px;
+	box-shadow: 1px 1px 1px 0px #999;
+}
+span>p{
+	margin: 0px 2px 0px 2px;
+}
+span:hover p.cancel{
+	transform: rotateZ(1440deg);
+	transition: 2s;
+	transition-timing-function: ease-in-out;
+}
+
+/*详细信息样式结束*/
+tbody.scrolltbody::-webkit-scrollbar {/*滚动条整体样式*/
+        width: 8px;     /*高宽分别对应横竖滚动条的尺寸*/
+        height: 1px;
+    }
+tbody.scrolltbody::-webkit-scrollbar-thumb {/*滚动条里面小方块*/
+        border-radius: 2px;
+        background: #999;
+    }
+tbody.scrolltbody::-webkit-scrollbar-track {/*滚动条里面轨道*/
+        border-radius: 2px;
+        background: #eee;
+    }

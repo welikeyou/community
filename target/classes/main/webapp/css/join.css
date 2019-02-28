@@ -1,0 +1,28 @@
+body{
+}
+div.mainbox{
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	width: 100%;
+}
+div.table{
+	margin-top:2%;
+	border:0;
+	position: relative;
+	left: 30%;
+}
+td,tr{
+text-align-last:start;
+vertical-align:top;
+}
+.table-button1{
+	position: relative; 
+	margin-top:5px;
+	margin-left:45px;
+}
+.table-button2{
+	position: relative; 
+	margin-top:5px;
+    margin-left:20px;
+}

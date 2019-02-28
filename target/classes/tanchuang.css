@@ -1,0 +1,104 @@
+.black_overlay{
+	display: none;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	background-color: grey;
+	z-index:1001;
+	opacity:.80;
+	filter: alpha(opacity=80);
+}
+.white_overlay {
+	border: 1px solid #014c86;
+	border-radius: 5px;
+	background-color: #fff;
+	border-collapse: collapse;
+	box-shadow: 1px 1px 2px 0px #4c6c85;
+}
+.white_overlay>div>span{
+	color:#fff;
+	background-color: #007BD9;
+	border-radius: 0px 0px 8px 8px;
+	position: absolute;
+	left: 90%;
+	padding-top: 20px;
+	box-shadow: 1px 1px 1px 0px #999;
+}
+span>p{
+	margin: 0px 2px 0px 2px;
+}
+span:hover p.cancel{
+	transform: rotateZ(1440deg);
+	transition: 2s;
+	transition-timing-function: ease-in-out;
+}
+#tuichu{
+	display: none;
+	position: absolute;
+	margin-top: 15%;
+	left: 30%;
+	width: 25%;
+	height: 150px;
+	background-color: white;
+	z-index:1002;
+	overflow: auto;
+}
+#tuichub1{
+	margin-bottom: 10px; 
+	margin-top:10px;
+	margin-left:10px;
+	float: left;
+}
+#tuichub2{
+	margin-bottom: 10px; 
+	float: right;
+	margin-top:10px;
+	margin-right: 10px;
+}
+#tuichub1{
+	color: #ea5554;
+	outline: none;
+	border-style: none;
+	border: 1px #ea5554 solid;
+	border-radius: 2px;
+	background-color: #fff;
+	box-shadow: 0px 0px 1px 0px #ea5554;
+}
+#tuichub1:hover{
+	background-color: #ea5554;
+	color: #fff;
+	transition: 0.3s;
+}
+.buttonb:hover{
+	background-color: #007bd9;
+	color: #fff;
+	transition: 0.3s;
+}
+#tuichup1{
+	margin-top:15%;
+	margin-left:55px;
+	font-size:20px; 
+}
+#tuichup2{
+	margin-top:15%;
+	margin-left:25px;
+	font-size:20px; 
+}
+.buttonb{
+	font-size: 12px;
+	height:30px;
+	width:50px;
+	background-color: #007bd9;
+	color: #fff;
+	transition: 0.3s;
+	color: #007bd9;
+	outline: none;
+	text-align: center;
+	vertical-align: middle;
+	border: 1px #007BD9 solid;
+	border-radius: 2px;
+	background-color: #fff;
+	box-shadow: 0px 0px 1px 0px #007BD9; 
+}

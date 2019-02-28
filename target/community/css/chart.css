@@ -1,0 +1,31 @@
+#fundslinechart {
+  width: auto;
+  height: 250px;
+  margin: 20px auto 0 auto;
+  background-color: #fff;
+}
+#fundsdonutchart {
+  width: auto;
+  height: 250px;
+  margin: 20px auto 0 auto;
+  background-color: #fff;
+}
+.headline{
+	height: 10px;
+	background-color: #007bd9;
+	border-radius: 4px 4px 0px 0px;
+}
+.card{
+	width: 100%;
+	background-color: #fff;
+	border: 1px solid #007bd9;
+	box-shadow: 1px 1px 2px 0px #333;
+	border-radius: 5px;
+	margin: 10px;
+}
+h2{
+	margin: 20px 10px 20px 10px; 
+	padding-bottom: 5px;
+	color:#007bd9;
+	border-bottom: 1px solid #ddd;
+}

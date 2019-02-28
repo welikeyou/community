@@ -1,10 +1,13 @@
-/*创作者：董淑媛  修改者:陆祎洲,董淑媛 功能：实现主页面图片轮播*/
+/*创作者：董淑媛 功能：实现主页面图片轮播*/
 window.onload = function(){
 	var oDiv = document.getElementById('box');
 	var oUl = oDiv.getElementsByTagName('ul')[0];
 	var aLi = oUl.getElementsByTagName('li');
-	var prev = document.getElementById('prev');
-	var next = document.getElementById('next');
+	var first = document.getElementById('first');
+	var second = document.getElementById('second');
+	var third = document.getElementById('third');
+	var fourth = document.getElementById('fourth');
+	var fifth = document.getElementById('fifth');
 	var num = 0;
 	var timer = null;
 
@@ -38,12 +41,24 @@ window.onload = function(){
 	//鼠标离开自动播放
 	oDiv.onmouseout = autoPlay;
 
-	prev.onclick = function(){
-		num--;
+	first.onclick = function(){
+		num=1;
 		move();
 	}
-	next.onclick = function(){
-		num++;
+	second.onclick = function(){
+		num=2;
+		move();
+	}
+	third.onclick = function(){
+		num=3;
+		move();
+	}
+	fourth.onclick = function(){
+		num=4;
+		move();
+	}
+	fifth.onclick = function(){
+		num=5;
 		move();
 	}
 }

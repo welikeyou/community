@@ -1,0 +1,14 @@
+body{
+}
+div.mainbox{
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	width: 100%;
+}
+.buzhang,.fubu,.chengyuan{
+	border: 1px grey solid;
+}
+td{
+	border: 1px grey solid;
+}
